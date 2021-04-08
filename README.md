@@ -12,4 +12,4 @@ In this project, we learned how to convert an image to sketch using python - Ope
 
 # Demo
 :: Click the Link below to watch the Demo </br>
-<a href=""https://www.youtube.com/watch?v=nM7YvZ14xB4 title="Demo for Image to Sketch">Demo!</a>
+<a href="https://www.youtube.com/watch?v=nM7YvZ14xB4" title="Demo for Image to Sketch">Demo!</a>
