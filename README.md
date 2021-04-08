@@ -9,3 +9,7 @@ In this project, we learned how to convert an image to sketch using python - Ope
 <a href="https://www.youtube.com/watch?v=XoF1Z3XC1-c" title="Python Installation">Click here to watch!</a></br></br>
 :: Command to install OpenCV
 <strong>pip install opencv-python</strong>
+
+# Demo
+:: Click the Link below to watch the Demo </br>
+<a href=""https://www.youtube.com/watch?v=nM7YvZ14xB4 title="Demo for Image to Sketch">Demo!</a>
